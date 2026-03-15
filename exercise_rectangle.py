@@ -9,6 +9,7 @@ def rectangle():
     base = 10
     altura = 5
     
+    """
      Ejercicio 8 - Cálculo de Precio Final
 
     Dado un precio base, calcular e imprimir:
