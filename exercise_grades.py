@@ -11,6 +11,8 @@ def grades():
     nota1 = 8
     nota2 = 7
     nota3 = 9
+    
+    """
     Ejercicio 11 - Promedio de Calificaciones
 
     Dadas tres notas, calcular e imprimir:
