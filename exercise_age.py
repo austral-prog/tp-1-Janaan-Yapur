@@ -10,6 +10,7 @@ def age():
     """
     edad_anos = 25
     
+    """
 Ejercicio 10 - Conversión de Edad a Tiempo
 
     Dada una edad en años, calcular e imprimir:
