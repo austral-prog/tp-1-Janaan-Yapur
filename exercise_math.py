@@ -13,6 +13,8 @@ def math():
     """
     a = 57
     b = 7
+    
+    """
      Ejercicio 1 - Operaciones Matemáticas
 
     Dado dos números enteros a y b, imprimir:
