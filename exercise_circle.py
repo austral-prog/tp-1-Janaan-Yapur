@@ -11,6 +11,7 @@ def circle():
     """
     radio = 5
     
+    """
     Ejercicio 6 - Geometría de Círculo
 
     Dado el radio de un círculo, calcular e imprimir:
