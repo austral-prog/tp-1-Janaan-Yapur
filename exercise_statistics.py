@@ -13,6 +13,7 @@ def statistics():
     num3 = 23
     num4 = 12
     
+    """
       Ejercicio 5 - Estadísticas Simples
 
     Dados cuatro números, calcular e imprimir:
